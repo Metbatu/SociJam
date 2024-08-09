@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/Impuls_Main.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/Impuls_Main_Inst.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/ImpulsMaterial.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/ImpulsMaterial_Inst.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/ImpulsMaterial_Inst1.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/Material_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/Material_002.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/neuron_Sphere.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/neuron_Sphere_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/spinous_pyramidyal_cell_Sphere_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/SuperGrid/StarterPack/Source/New/SuperGrid_RingQuarter.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/ImpulsMaterial_Inst2.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/SuperGrid/StarterPack/Source/New/SuperGrid_RingFull.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/Impuls_Main_Inst_Inst.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/Impuls_Main_Inst_Inst_Inst.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/spinous_pyramidyal_cell_Sphere_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/neuron_Sphere_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/neuron_Sphere.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/Material_002.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/Material_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/Impuls_Main_Inst.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/Impuls_Main.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/ImpulsMaterial_Inst1.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/ImpulsMaterial_Inst.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/ImpulsMaterial.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/ImpulsMaterial.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/ImpulsMaterial_Inst.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/ImpulsMaterial_Inst1.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/Impuls_Main.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/Impuls_Main_Inst.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/Material_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/Material_002.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/neuron_Sphere.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/neuron_Sphere_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/Material/spinous_pyramidyal_cell_Sphere_001.uasset",
+				"C:/Users/muham/Desktop/SOCIAWARE/SociJam/LOCO/SociJamSon/Content/civan/materials/NewMaterial.uasset"
+			]
+		}
+	]
+}
